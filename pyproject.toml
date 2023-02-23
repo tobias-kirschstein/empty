@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "<<<ENTER_PACKAGE_NAME>>>"
 version = "0.0.1"
-description = "<<<ENTER_DESCRIPTION>>"
+description = "<<<ENTER_DESCRIPTION>>>"
 authors = [
     { name = "Tobias Kirschstein", email = "tobias.kirschstein@gmail.com" },
 ]
@@ -17,7 +17,7 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent"
 ]
-urls = { Documentation = "<<<ENTER_LINK_TO_DOCUMENTATION>>>" }
+# urls = { Documentation = "<<<ENTER_LINK_TO_DOCUMENTATION>>>" }
 # Main dependencies
 dependencies = [
 ]
